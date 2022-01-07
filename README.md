@@ -1,2 +1,0 @@
-# jnavno
-personal projects
